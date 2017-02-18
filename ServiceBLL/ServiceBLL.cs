@@ -9,7 +9,7 @@ using System.Globalization;
 using Newtonsoft.Json.Linq;
 using Beneficiarios.DTO;
 using System.Configuration;
-
+     //test
 
         /// <summary>
         /// Clase padre para los metodos de las BLL 
